@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MidtermSathvika</string>
+    <string name="enter_side_length">Enter side length</string>
+    <string name="perimeter_of_square">Perimeter of Square</string>
+</resources>
